@@ -1,0 +1,13 @@
+Activity_Name,Activity_Id,X,Y
+take the lab results,74c95ce6-d1b9-4cbb-86a0-a408dc4ebd1b,159,762
+Inform the results to the ward team,c8ddcdda-e802-4e3f-8b84-f09118ea63f4,379,762
+Observe the symtoms during the patient's stay,e3d1f168-07a6-43e0-bef4-728a39779253,554,762
+Consult the patient,29b53393-0bf6-474c-ab9f-d8d2a1c8d8ac,148,477
+,c91477b3-76bd-461a-b6f8-a6233f52074c,300,477
+inquire symptoms,45e739ec-7c1f-4273-abcd-6a83697039bf,421,457
+Order tests,5da9cdab-112e-4774-8333-6f4e3765fcc8,421,546
+,1a647574-c22f-4c1a-9464-50aaadc7c3f7,598,888
+,88874915-a7d2-4b93-8227-5cb179c05dc1,159,316
+Welcome the patient,54bee0c4-8f5a-46e9-89f8-7dc337699f1a,224,301
+Enter the registration form,9b3d4129-8178-4d82-b900-c21918cd64d8,210,111
+Refer the patient to the medical department,3e68f310-5394-439b-8b77-c0f74c6bfa73,389,286

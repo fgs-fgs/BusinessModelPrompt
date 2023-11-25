@@ -1,0 +1,5 @@
+Lane_Name,Lane_Id,Lane_X,Lane_Y,Lane_H
+Nurse,4a95c05a-c13a-4c18-a5fa-fcad6e0f60a3,50,600,350
+Secretary,fcb16a99-7709-464f-a249-126780afcac3,50,200,200
+Doctor,83fb4e77-75c8-4bbb-88bb-7bf8101111bd,50,400,200
+Patient,d6fa8220-146f-4b5b-b73e-d15d493e03ae,50,0,200

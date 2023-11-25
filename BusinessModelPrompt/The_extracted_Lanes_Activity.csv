@@ -1,0 +1,5 @@
+Lane_Name,Activity_Name
+Nurse,take the lab results,Inform the results to the ward team,Observe the symtoms during the patient's stay,
+Secretary,,Welcome the patient,Refer the patient to the medical department
+Doctor,Consult the patient,,inquire symptoms,Order tests
+Patient,Enter the registration form
